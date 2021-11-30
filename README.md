@@ -7,4 +7,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fuyoo&theme=github)
 
 **know more at [echosocket.com](https://www.echosocket.com)**
-**[BS Redis Desktop Client](https://bs.echosocket.com)**
+
+BS Redis Desktop Client try it！**[BS Redis Desktop Client](https://bs.echosocket.com)**
