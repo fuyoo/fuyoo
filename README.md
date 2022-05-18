@@ -8,4 +8,6 @@
 
 **know more at [echosocket.com](https://www.echosocket.com)**
 
-Haha, "BS Redis Desktop Client" has been released. try use it now! ----> **[BS Redis Desktop Client](https://bs.echosocket.com)**
+"BS Redis Desktop Client" has been released. try use it now! 
+
+look here **[BS Redis Desktop Client](https://bs.echosocket.com)**
