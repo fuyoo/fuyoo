@@ -10,4 +10,4 @@
 
 "BS Redis Desktop Client" has been released. try use it now! 
 
-look here **[BS Redis Desktop Client](https://bs.echosocket.com)**
+look here **[BS RDC](https://bs.xsa.link)**
